@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Languages and Tools:
+
+Visual Studio Code HTML5 CSS3 Sass JavaScript React Gatsby GraphQL Node.js Deno SQL MySQL MongoDB Git GitHub Terminal
