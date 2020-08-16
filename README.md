@@ -1,11 +1,22 @@
-# Hi there 👋, I am Yolo
-> nice to need you
+# Hi there 👋, I’m Yolo
 
-## 🌱 I’m currently learning
+> Nice to need you.
+
+## I’m a software engineering student
+
+🥅 2020 Goals: Contribute with Open Source projects.
+
+### 🌱 I’m currently learning
 
 - TypeScript
 - Html5
 - Css
+- Firebase
+
+### 🔭 I’m currently working on
+
+* Ionic 
+* Firebase 
 
 <!--
 **yolo20/yolo20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
