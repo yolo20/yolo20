@@ -1,7 +1,5 @@
 ### Hi there 👋, I am Yolo
 
-### I'am 
-
 <!--
 **yolo20/yolo20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,7 +14,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-Languages and Tools:
-
-Visual Studio Code HTML5 CSS3 Sass JavaScript React Gatsby GraphQL Node.js Deno SQL MySQL MongoDB Git GitHub Terminal
