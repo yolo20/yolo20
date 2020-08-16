@@ -1,14 +1,11 @@
 # Hi there 👋, I am Yolo
 > nice to need you
-## Hi there 👋, I am Yolo
 
-- George Washington
-- John Adams
-- Thomas Jefferson
+## 🌱 I’m currently learning
 
-- [x] Finish my changes
-- [ ] Push my commits to GitHub
-- [ ] Open a pull request
+- TypeScript
+- Html5
+- Css
 
 <!--
 **yolo20/yolo20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
