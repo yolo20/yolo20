@@ -2,6 +2,10 @@
 > nice to need you
 ## Hi there 👋, I am Yolo
 
+- George Washington
+- John Adams
+- Thomas Jefferson
+
 <!--
 **yolo20/yolo20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
