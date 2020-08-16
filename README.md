@@ -6,14 +6,14 @@
 
 🥅 2020 Goals: Contribute with Open Source projects.
 
-### 🌱 I’m currently learning
+## 🌱 I’m currently learning
 
 - TypeScript
 - Html5
 - Css
 - Firebase
 
-### 🔭 I’m currently working on
+## 🔭 I’m currently working on
 
 * Ionic 
 * Firebase 
