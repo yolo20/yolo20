@@ -1,10 +1,10 @@
-# Hi there 👋, I’m Yolo
+# Hi there 👋, I’m Brian
 
 > Nice to need you.
 
 ## I’m a software engineering student
 
-🥅 2020 Goals: Contribute with Open Source projects.
+🥅 2021 Goals: Contribute with Open Source projects.
 
 ## 🌱 I’m currently learning
 
